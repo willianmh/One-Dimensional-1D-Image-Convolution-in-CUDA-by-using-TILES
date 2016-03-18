@@ -1,0 +1,14 @@
+O_Tile_Width 3
+Mask_width 3
+width 5
+
+Input:
+ 1.00  1.00  1.00  1.00  1.00 
+Mask:
+ 1.00  1.00  1.00 
+Output:
+ 2.00  3.00  3.00  3.00  2.00 
+
+Number of Blocks: 2 
+
+Number of Threads Per Block: 5
